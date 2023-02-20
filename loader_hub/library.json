@@ -176,5 +176,10 @@
   "BilibiliTranscriptReader": {
     "id": "bilibili",
     "author": "alexzhangji"
+  },
+  "RedditReader": {
+    "id": "reddit",
+    "author": "vanessahlyan",
+    "keywords": ["reddit", "subreddit", "search", "comments"]
   }
 }
